@@ -1,0 +1,8 @@
+Package: svdd
+Title: Support Vector Data Descriptors
+Version: 0.0.0.9000
+Authors@R: person("Spencer", "Funk", email="funkspencer@gmail.com", role=c("aut", "cre"))
+Description: Train SVDDs and provide a framework for testing distances of new observations to determine outlier or novelty datapoints.
+Depends: R (>= 3.1.2)
+License: N/A
+LazyData: true
